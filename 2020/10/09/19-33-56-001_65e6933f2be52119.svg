@@ -1,0 +1,9 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10 10H250V170H10V10Z" fill="url(#bg-gradients_radial)"/>
+<defs>
+<radialGradient id="bg-gradients_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(10 170) rotate(-33.6901) scale(288.444 432.666)">
+<stop stop-color="var(--color-contrast-medium)"/>
+<stop offset="1" stop-color="var(--color-bg)"/>
+</radialGradient>
+</defs>
+</svg>
